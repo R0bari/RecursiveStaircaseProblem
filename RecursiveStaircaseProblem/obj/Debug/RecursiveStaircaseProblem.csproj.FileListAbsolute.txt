@@ -1,0 +1,6 @@
+E:\GitHub\RecursiveStaircaseProblem\RecursiveStaircaseProblem\bin\Debug\RecursiveStaircaseProblem.exe.config
+E:\GitHub\RecursiveStaircaseProblem\RecursiveStaircaseProblem\bin\Debug\RecursiveStaircaseProblem.exe
+E:\GitHub\RecursiveStaircaseProblem\RecursiveStaircaseProblem\bin\Debug\RecursiveStaircaseProblem.pdb
+E:\GitHub\RecursiveStaircaseProblem\RecursiveStaircaseProblem\obj\Debug\RecursiveStaircaseProblem.csprojAssemblyReference.cache
+E:\GitHub\RecursiveStaircaseProblem\RecursiveStaircaseProblem\obj\Debug\RecursiveStaircaseProblem.exe
+E:\GitHub\RecursiveStaircaseProblem\RecursiveStaircaseProblem\obj\Debug\RecursiveStaircaseProblem.pdb
